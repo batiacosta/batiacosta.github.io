@@ -262,8 +262,8 @@
         "links":[
             {
                 "type": "github",
-                "src": "https://apps.apple.com/us/app/id1537947706",
-                "platform": "Meta Quest 2"
+                "src": "https://github.com/batiacosta/EncontrarMayoURP/releases/tag/V1",
+                "platform": "Meta Quest APK"
             }
         ],
         "tags": {
