@@ -116,11 +116,6 @@
                 "type": "github",
                 "src": "https://github.com/batiacosta/AppleCatcher",
                 "platform": "Repository"
-            },
-{
-                "type": "github",
-                "src": "https://batiacosta.github.io/AppleCatcher/index.html",
-                "platform": "Repository"
             }
         ],
         "tags": {
