@@ -119,8 +119,8 @@
             }
         ],
         "tags": {
-            "English": ["Published", "AR", "Unity", "C#", "AR Foundation", "Contribution"],
-            "Español": ["Publicado", "AR", "Unity", "C#", "AR Foundation", "Contribución"]
+            "English": ["Game", "WebGL", "PhaserJS", "Javascript", "Vite"],
+            "Español": ["Game", "WebGL", "PhaserJS", "Javascript", "Vite"]
         }
     }
 ]
