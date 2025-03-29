@@ -116,11 +116,16 @@
                 "type": "github",
                 "src": "https://github.com/batiacosta/AppleCatcher",
                 "platform": "Repository"
+            },
+            {
+                "type": "web",
+                "src": "https://octe.itch.io/apples-catcher",
+                "platform": "Playable Demo"
             }
         ],
         "tags": {
-            "English": ["Game", "WebGL", "PhaserJS", "Javascript", "Vite"],
-            "Español": ["Game", "WebGL", "PhaserJS", "Javascript", "Vite"]
+            "English": ["Published", "AR", "Unity", "C#", "AR Foundation", "Contribution"],
+            "Español": ["Publicado", "AR", "Unity", "C#", "AR Foundation", "Contribución"]
         }
     }
 ]
